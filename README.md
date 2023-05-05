@@ -16,7 +16,7 @@ Blender 3.5.0 or later
 ![](./img/left.png)
 ### back view
 ![](./img/back.png)
-### another scene 1
+### scene 1
 ![](./img/scene1.png)
-### another scene 2
+### scene 2
 ![](./img/scene2.png)
